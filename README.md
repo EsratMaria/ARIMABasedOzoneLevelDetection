@@ -5,4 +5,4 @@ This project was done as the final submission for the course Time series Data An
 
 The process has been done using ``R``
 
-The details of this entire procedure has been included [here]("/FinalProject.pdf").
+The details of this entire procedure has been included [here](/FinalProject.pdf).
